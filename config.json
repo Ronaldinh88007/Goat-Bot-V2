@@ -23,8 +23,8 @@
     "whiteListIds": ["100077587996030","100094189827824"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 𝘼𝙣𝙘𝙚𝙨𝙩𝙤𝙧𝙨 𝘼𝙞  ",
-  "prefix": "-",
+  "nickNameBot": "Eshita The Cubby Mommy",
+  "prefix": "@",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
