@@ -17,10 +17,10 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100077587996030", "100094189827824"],
+    "100077587996030", "61558052752276"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100081894480123","100094189827824"],
+    "whiteListIds": ["61558052752276","100094189827824"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": " 【𝐑𝐀𝐍𝐈】 𝘼𝙞  ",
