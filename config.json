@@ -17,13 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100077587996030", "100094189827824"],
+    "100077587996030", "100071288633689
+    "],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": ["100081894480123","100094189827824"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 【𝐑𝐀𝐍𝐈】 𝘼𝙞  ",
+  "nickNameBot": " 【𝐑Ooon 𝘼𝙞  ",
   "prefix": "-",
   "database": {
     "type": "mongodb",
