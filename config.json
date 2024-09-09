@@ -23,7 +23,7 @@
     "whiteListIds": ["100081894480123","100094189827824"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 【𝐑Ooon 𝘼𝙞  ",
+  "nickNameBot": " Ron Rifat",
   "prefix": "-",
   "database": {
     "type": "mongodb",
