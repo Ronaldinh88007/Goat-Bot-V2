@@ -20,10 +20,10 @@
     "100077587996030", "100071288633689"],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["100081894480123","100094189827824"],
+    "whiteListIds": ["100081894480123","100071288633689"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " Ron Rifat",
+  "nickNameBot": "RI FA AT",
   "prefix": "-",
   "database": {
     "type": "mongodb",
